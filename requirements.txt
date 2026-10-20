@@ -5,3 +5,4 @@ requests==2.34.2
 SQLAlchemy==2.1.4
 psycopg2-binary==2.9.13
 ipykernel==7.4.0
+matplotlib==3.11.2
