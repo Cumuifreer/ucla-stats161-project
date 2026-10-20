@@ -1,0 +1,7 @@
+# Python 3.12
+pandas==3.0.6
+pyarrow==26.0.0
+requests==2.34.2
+SQLAlchemy==2.1.4
+psycopg2-binary==2.9.13
+ipykernel==7.4.0
